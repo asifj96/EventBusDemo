@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/hp/AndroidProject/EventBusDemo/app/src/main/res/drawable/bg_dropdown.xml" value="0.1305" />
         <entry key="..\:/Users/hp/AndroidProject/EventBusDemo/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/hp/AndroidProject/EventBusDemo/app/src/main/res/layout/fragment_event_bus.xml" value="0.20416666666666666" />
       </map>
